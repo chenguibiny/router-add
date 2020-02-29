@@ -1,11 +1,11 @@
 <template>
-  <div >
-    <h1>This is an about page</h1>
-  </div>
+    <div>
+        页面找不到了，去其他页面看看吧！
+    </div>
 </template>
 <script>
 export default {
-  
+    
 }
 </script>
 <style scoped>
