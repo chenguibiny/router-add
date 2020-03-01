@@ -52,7 +52,6 @@ export default {
             this.isChanging = !this.isChanging;
         },
         confirmchange(){
-            // console.log('confirmchange')
             const name = this.title;
             const price = this.price;
             const index = this.index;
