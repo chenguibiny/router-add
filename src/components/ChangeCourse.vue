@@ -45,7 +45,6 @@ export default {
     },
     methods:{
         change(index){
-            // console.log('change')
             this.index = index;
             const course = this.courseList[index];
             this.title = course.name;
